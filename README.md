@@ -1,2 +1,2 @@
 # FlightManagementApp
-Application for ticket booking
+Java Spring boot Application for ticket booking

@@ -26,5 +26,4 @@ public class FlightService {
 	public List<Flight> findRequiredFlights(Flight flight) {
 		return flightRepository.findByFromPlaceAndToPlace(flight.getFromPlace(),flight.getToPlace());
 	}
-	
 }
